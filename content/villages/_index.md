@@ -382,7 +382,6 @@ For the first time in BSidesTLV history, we are excited to introduce the Adversa
 ## Our Vision
 The Adversarial Mindset is a dynamic and engaging community initiative that's all about Adversary simulation, Adversary Tactics, Life, Adversary Philosophy, Threat Actors Emulation, and Purple Teaming. Our goal is to provide a platform for professionals and enthusiasts to hone their skills and develop new tactics, techniques, and procedures to combat modern cyber threats. At BSidesTLV, we'll host technical talks, live demos, panel discussions, and hands-on activities to help you explore the latest tools and techniques in Adversary simulation and Purple teaming and to help you understand better the attackers' mindset and TTP, to create better defensive and offensive capabilities. Whether you're a seasoned cybersecurity pro or just starting out, we've got something for everyone. Join us at the Adversarial Mindset, and let's make a tangible impact on the cybersecurity world together!
 
-
 ### Opening Session: Becoming A Better Adversary
 **Gal Bitansky**
 We can always learn a new trick, unlock a new achievement - or just get better. This talk will discuss the complex relationship with defenders and how it can make you a better person (by assisting them to better prepare for a real adversary) and a better red teamer (by learning their limitations). We will provide concrete scenarios and practical lessons from our personal experience.
@@ -402,11 +401,11 @@ Explore the world of AI Red Teaming Large Language Models (LLMs) - their origins
 
 ### Reconnaissance for Red Teamers
 **By: Lior Sibonny Leibovitz**
-This session will dive into OSINT and recon world in the black hat hackers and red teamers. we will discuss the difference between those approaches and learn about techniques and usage of relevant tools.
+This session will delve into the world of OSINT and reconnaissance in the realm of black hat hackers and red teamers. We will discuss the differences between these approaches and explore techniques and the usage of relevant tools.
 
 ### Panel Discussion: From Intelligence to Adversary Simulation 
 **Moderator: Stav Shulman**
-Panelists: Ido Rozen, Dr Amit Elazari, Hanna Meyerfeld
+Panelists: Ido Rozen, Dr Amit Elazari, Hanna Meyerfeld, Jeremy Makowski
 
 ### Closing Keynote: Finding Your Adversarial Voice 
 **by Jamie Williams**
